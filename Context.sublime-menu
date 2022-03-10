@@ -1,18 +1,10 @@
 [
     {
-        "caption": "Copy as HTML",
+        "caption": "作为HTML复制",
         "command": "sublime_highlight",
         "args": {
             "target": "clipboard",
             "output_type": "html"
-        }
-    },
-    { 
-        "caption": "Copy as RTF",
-        "command": "sublime_highlight",
-        "args": {
-            "target": "clipboard",
-            "output_type": "rtf"
         }
     }
 ]
